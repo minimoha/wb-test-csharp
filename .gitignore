@@ -12,8 +12,10 @@
 /TestApi/obj/Debug/net8.0/TestApi.assets.cache
 /.vs
 /TestApi/bin/Debug/net8.0
+/TestApi/bin
 /TestApi/Filelogs
 /TestApi/Migrations
 /TestApi/obj
 /TestApi.Tests/bin/Debug/net8.0
 /TestApi.Tests/obj
+/TestApi.Tests/bin
